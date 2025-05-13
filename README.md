@@ -23,8 +23,8 @@ This repository accompanies the paper *"Stochastic Modeling of Sensor Drift: Sep
   - `scienceplots`
 
 ### R
-- mgcv
-- ggplot2, dplyr, tidyr
+- `mgcv`
+- `ggplot2`, `dplyr`, `tidyr`
 
 ---
 For questions or feedback, please contact: [yangch@kth.se]

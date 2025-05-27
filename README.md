@@ -9,7 +9,9 @@ This repository accompanies the paper *"Stochastic Modeling of Sensor Drift: Sep
   R script: `PoF experiments/synthetic example/simulation strain gauge.r`
 
 - **In-field Example**  
-  To be uploaded
+  - The data used in this study are not publicly available because they are not owned by us and we do not have the rights to share them.
+  - GAM fit for each individual sensor and corresponding plots: `in-field experiment/GAM for each sensor.r`
+  - Drawing plots that combine the effects from all sensors: `in-field experiment/plot for all.r`
 
 ## Requirements
 
